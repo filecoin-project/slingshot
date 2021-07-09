@@ -78,6 +78,10 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | CLEVR Dataset | A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning. | 19 GB | png&json | https://www.kaggle.com/timoboz/clevr-dataset |
 | COCO2017 | Common Objects in Context | 20 GB | jpg | https://www.kaggle.com/aishwr/coco2017 |
 | COCO 2017 Dataset | COCO is a large-scale object detection, segmentation, and captioning dataset. | 26 GB | jpg | https://www.kaggle.com/awsaf49/coco-2017-dataset |
+| PandaSet Dataset | Public large-scale dataset for autonomous driving |  31GB | Various | https://www.kaggle.com/usharengaraju/pandaset-dataset |
+| AudioSet [Train] | Training audio files for AudioSet |  29GB | Various | https://www.kaggle.com/zfturbo/audioset |
+| GloVe Reddit Comments | Global Vectors for Word Representation based on Reddit comments |  24GB | Various | https://www.kaggle.com/leighplt/glove-reddit-comments |
+| May 2015 Reddit Comments | Get personal with a dataset of comments from May 2015 |  30GB | Various | https://www.kaggle.com/reddit/reddit-comments-may-2015 |
 
 
 ## Disqualified datasets
